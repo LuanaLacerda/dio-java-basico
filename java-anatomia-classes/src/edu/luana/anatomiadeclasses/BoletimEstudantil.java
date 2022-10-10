@@ -1,4 +1,4 @@
-package edu.luana.primeirasemana;
+package edu.luana.anatomiadeclasses;
 
 public class BoletimEstudantil {
 

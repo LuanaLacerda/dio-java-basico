@@ -1,4 +1,4 @@
-package edu.luana.segundasemana;
+package edu.luana.anatomiadeclasses;
 
 public class MinhaClasse {
 
